@@ -1,0 +1,13 @@
+{
+  "KITS": [
+    {
+      "position": 0,
+      "power": 2,
+      "kit_icon_id": "example_kit_icon",
+      "kit_items": [
+        {"item_id": "example_sword", "amount": 1},
+        {"item_id": "example_dirt", "amount": 5}
+      ]
+    }
+  ]
+}

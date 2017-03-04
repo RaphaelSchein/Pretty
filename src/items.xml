@@ -1,0 +1,24 @@
+<items>
+
+    <item id="example_kit_icon">
+        <material>DIAMOND</material>
+        <name>Geiles Kit</name>
+
+        <lore>
+            <line>Line</line>
+        </lore>
+
+        <enchantments>
+            <enchantment level="1">DURABILITY</enchantment>
+        </enchantments>
+    </item>
+
+    <item id="example_sword">
+        <material>IRON_SWORD</material>
+    </item>
+
+    <item id="example_dirt">
+        <material>DIRT</material>
+    </item>
+
+</items>
